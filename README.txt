@@ -3,10 +3,9 @@ https://drive.google.com/drive/folders/1Ef9YItyc3ru_lE-05EuThanfyyyEWMRn?usp=sha
 
 feel free to try our project.
 
-Project Demo on Youtube: https://www.youtube.com/watch?v=-2sHN1sw41c
+Project Demo on Youtube: 
 
-
-<video src='https://www.youtube.com/watch?v=-2sHN1sw41c' width=180/>
+https://www.youtube.com/watch?v=-2sHN1sw41c
 
 
 Before running the program, run install.bat
